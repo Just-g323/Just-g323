@@ -15,7 +15,7 @@ jobs:
         run: pip install beautifulsoup4 requests
 
       - name: Run script
-        run: python scripts/InstaFeed.py
+        run: python scriptsFolder/InstaFeed.py
 
       - name: Commit changes
         run: |
