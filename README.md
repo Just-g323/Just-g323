@@ -1,3 +1,5 @@
+<div align="center">
+
 # Heyo, I’m g323
 
 **Student • Developer • Video Editor**
@@ -21,17 +23,17 @@ Currently exploring the space between **logic, data, and creative tools**.
 
 ## What I’m About
 
-* I learn quickly and document what I discover
-* I don’t like unfinished work — I iterate until it works
-* I enjoy solving problems that require both structure *and* imagination
+I learn quickly and document what I discover<br>
+I don’t like unfinished work — I iterate until it works<br>
+I enjoy solving problems that require both structure *and* imagination
 
 ---
 
 ## Current Focus
 
-* Expanding real-world coding projects
-* Moving local projects onto GitHub
-* Building a portfolio that reflects both technical and creative work
+Expanding real-world coding projects<br>
+Moving local projects onto GitHub<br>
+Building a portfolio that reflects both technical and creative work
 
 ---
 
@@ -39,12 +41,12 @@ Currently exploring the space between **logic, data, and creative tools**.
 
 Before focusing fully on tech, I built experience in environments that required discipline, responsibility, and focus.
 
-- Ran a small car-flipping business during COVID, handling sourcing, pricing, and resale  
-- Competed in horse riding at national level  
-- Practice archery — I enjoy precision and patience-based skills  
-- Certified diver (PADI)  
-- CPR certified by the Saudi Heart Association
-- I am also a cocktail: <img src="https://purecatamphetamine.github.io/country-flag-icons/3x2/SA.svg" width="30"/>  <img src="https://purecatamphetamine.github.io/country-flag-icons/3x2/TR.svg" width="30"/>
+Ran a small car-flipping business during COVID, handling sourcing, pricing, and resale  <br>
+Competed in horse riding at national level  <br>
+Practice archery — I enjoy precision and patience-based skills  <br>
+Certified diver (PADI)  <br>
+CPR certified by the Saudi Heart Association<br>
+I am also a cocktail: <img src="https://purecatamphetamine.github.io/country-flag-icons/3x2/SA.svg" width="30"/>  <img src="https://purecatamphetamine.github.io/country-flag-icons/3x2/TR.svg" width="30"/>
 
 These experiences shaped how I approach projects: stay calm, stay consistent, and finish properly.
 
@@ -76,5 +78,6 @@ These experiences shaped how I approach projects: stay calm, stay consistent, an
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5.5%"/>](https://www.instagram.com/g323_boomer/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5.5%"/>](https://www.linkedin.com/) &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%"/>](https://discordapp.com/users/487986946270953493)
 
 ---
+</div>
 
-> *Im pro (only a little, not too much).*
+> *Im pro (only a little, not too much). - g323*
