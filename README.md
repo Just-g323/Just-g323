@@ -43,7 +43,8 @@ Before focusing fully on tech, I built experience in environments that required 
 - Competed in horse riding at national level  
 - Practice archery — I enjoy precision and patience-based skills  
 - Certified diver (PADI)  
-- CPR certified by the Saudi Heart Association  
+- CPR certified by the Saudi Heart Association
+- I am also a cocktail: <img src="https://purecatamphetamine.github.io/country-flag-icons/3x2/SA.svg" width="30"/>  <img src="https://purecatamphetamine.github.io/country-flag-icons/3x2/TR.svg" width="30"/>
 
 These experiences shaped how I approach projects: stay calm, stay consistent, and finish properly.
 
