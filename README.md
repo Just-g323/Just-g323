@@ -58,6 +58,7 @@ These experiences shaped how I approach projects: stay calm, stay consistent, an
 
 ---
 
+## Latest Work
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Mashup - Sweet But Psycho (4K)](https://ytcards.demolab.com/?id=FaKH9MYnDU8&title=Mashup+-+Sweet+But+Psycho+%284K%29&lang=en&timestamp=1746367262&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56 "Mashup - Sweet But Psycho (4K)")](https://www.youtube.com/watch?v=FaKH9MYnDU8)
 [![Ranni - Mamacita Elden Ring [Edit]](https://ytcards.demolab.com/?id=KcOYKvp-uEc&title=Ranni+-+Mamacita+Elden+Ring+%5BEdit%5D&lang=en&timestamp=1728691882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "Ranni - Mamacita Elden Ring [Edit]")](https://www.youtube.com/watch?v=KcOYKvp-uEc)
@@ -69,11 +70,9 @@ These experiences shaped how I approach projects: stay calm, stay consistent, an
 
 ---
 
-## Let’s Connect
+## Reach Me
 
-* LinkedIn: [link]
-* Email: [link]
-* Portfolio (future): coming soon
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5.5%"/>](https://www.instagram.com/g323_boomer/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5.5%"/>](https://www.linkedin.com/) &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%"/>](https://discord.gg/)
 
 ---
 
