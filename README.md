@@ -58,6 +58,12 @@ These experiences shaped how I approach projects: stay calm, stay consistent, an
 
 ---
 
+<!-- IG-FEED:START -->
+Loading Instagram feed...
+<!-- IG-FEED:END -->
+
+---
+
 ## Let’s Connect
 
 * LinkedIn: [link]
