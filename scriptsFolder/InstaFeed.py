@@ -1,31 +1,43 @@
 import requests
-from bs4 import BeautifulSoup
+import re
 
 USERNAME = "g323_boomer"
-URL = f"https://www.instagram.com/g323_boomer/"
 
-headers = {"User-Agent": "Mozilla/5.0"}
-html = requests.get(URL, headers=headers).text
-soup = BeautifulSoup(html, "html.parser")
+def update_readme():
+    url = f"https://rsshub.app/instagram/user/g323_boomer"
+    
+    try:
+        response = requests.get(url, timeout=15)
+        images = re.findall(r'<img src="(.*?)"', response.text)[:3]
+    except Exception as e:
+        print(f"Error fetching RSS: {e}")
+        return
 
-images = soup.find_all("img")[1:4]  
+    if not images:
+        print("No images found. The RSS feed might be blocked or empty.")
+        return
 
-entries = []
-for img in images:
-    thumb = img["src"]
-    alt = img.get("alt", "Instagram post")
-    link = f"https://www.instagram.com/g323_boomer/"
-    entries.append(f"[![post]({thumb})]({link})")
+    entries = []
+    for thumb in images:
+        link = f"https://www.instagram.com/g323_boomer/"
+        entries.append(f"[![post]({thumb})]({link})")
 
-block = "## Latest Editing Work\n\n" + " ".join(entries) + "\n"
+    block = "## Latest Editing Work\n\n" + " ".join(entries) + "\n"
 
-with open("README.md", "r", encoding="utf-8") as f:
-    readme = f.read()
+    with open("README.md", "r", encoding="utf-8") as f:
+        readme = f.read()
 
-start = "<!-- IG-FEED:START -->"
-end = "<!-- IG-FEED:END -->"
+    start = ""
+    end = ""
 
-new_readme = readme.split(start)[0] + start + "\n" + block + "\n" + end + readme.split(end)[1]
+    if start in readme and end in readme:
+        new_readme = readme.split(start)[0] + start + "\n" + block + "\n" + end + readme.split(end)[1]
+        
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(new_readme)
+        print(f"Successfully updated README with {len(images)} images!")
+    else:
+        print("Error: Could not find markers and in README.md")
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_readme)
+if __name__ == "__main__":
+    update_readme()
