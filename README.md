@@ -15,7 +15,7 @@ Currently exploring the space between **logic, data, and creative tools**.
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ae,androidstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ae,androidstudio,blender&theme=dark)](https://skillicons.dev)
 
 ---
 
