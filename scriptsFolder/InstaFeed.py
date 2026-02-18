@@ -2,22 +2,22 @@ import requests
 from bs4 import BeautifulSoup
 
 USERNAME = "g323_boomer"
-URL = f"https://www.instagram.com/{USERNAME}/"
+URL = f"https://www.instagram.com/g323_boomer/"
 
 headers = {"User-Agent": "Mozilla/5.0"}
 html = requests.get(URL, headers=headers).text
 soup = BeautifulSoup(html, "html.parser")
 
-images = soup.find_all("img")[1:4]  # grab first 3 posts
+images = soup.find_all("img")[1:4]  
 
 entries = []
 for img in images:
     thumb = img["src"]
     alt = img.get("alt", "Instagram post")
-    link = f"https://www.instagram.com/{USERNAME}/"
+    link = f"https://www.instagram.com/g323_boomer/"
     entries.append(f"[![post]({thumb})]({link})")
 
-block = "## 🎬 Latest Editing Work\n\n" + " ".join(entries) + "\n"
+block = "## Latest Editing Work\n\n" + " ".join(entries) + "\n"
 
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
