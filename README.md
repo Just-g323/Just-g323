@@ -15,7 +15,7 @@ Currently exploring the space between **logic, data, and creative tools**.
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ae,androidstudio,blender&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ae,androidstudio,blender,firebase&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -72,7 +72,7 @@ These experiences shaped how I approach projects: stay calm, stay consistent, an
 
 ## Reach Me
 
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5.5%"/>](https://www.instagram.com/g323_boomer/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5.5%"/>](https://www.linkedin.com/) &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%"/>](https://discord.gg/)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5.5%"/>](https://www.instagram.com/g323_boomer/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5.5%"/>](https://www.linkedin.com/) &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%"/>](https://discordapp.com/users/487986946270953493)
 
 ---
 
