@@ -1,16 +1,69 @@
-## Hi there 👋
+# Heyo, I’m g323
 
-<!--
-**Just-g323/Just-g323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student • Developer • Video Editor**
 
-Here are some ideas to get you started:
+I build things, learn fast, and finish what I start.
+Currently exploring the space between **logic, data, and creative tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech I Use
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,r,php&theme=dark)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,ae,androidstudio&theme=dark)](https://skillicons.dev)
+
+---
+
+## What I’m About
+
+* I learn quickly and document what I discover
+* I don’t like unfinished work — I iterate until it works
+* I enjoy solving problems that require both structure *and* imagination
+
+---
+
+## Current Focus
+
+* Expanding real-world coding projects
+* Moving local projects onto GitHub
+* Building a portfolio that reflects both technical and creative work
+
+---
+
+## Beyond Code
+
+Before focusing fully on tech, I built experience in environments that required discipline, responsibility, and focus.
+
+- Ran a small car-flipping business during COVID, handling sourcing, pricing, and resale  
+- Competed in horse riding at national level  
+- Practice archery — I enjoy precision and patience-based skills  
+- Certified diver (PADI)  
+- CPR certified by the Saudi Heart Association  
+
+These experiences shaped how I approach projects: stay calm, stay consistent, and finish properly.
+
+---
+
+## Roadmap
+
+* [ ] Publish my strongest local projects
+* [ ] Build one polished flagship project
+* [ ] Contribute to an open-source project
+* [ ] Document my learning journey publicly
+
+---
+
+## Let’s Connect
+
+* LinkedIn: [link]
+* Email: [link]
+* Portfolio (future): coming soon
+
+---
+
+> *Im pro (only a little, not too much).*
