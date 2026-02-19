@@ -4,8 +4,8 @@
 
 **Student • Developer • Video Editor**
 
-I build things, learn fast, and finish what I start.
-Currently exploring the space between **logic, data, and creative tools**.
+I build things, learn fast, and finish what I start.<br>
+Currently exploring the space between logic, data, and creative tools.
 
 ---
 
@@ -25,42 +25,34 @@ Currently exploring the space between **logic, data, and creative tools**.
 
 I learn quickly and document what I discover<br>
 I don’t like unfinished work — I iterate until it works<br>
-I enjoy solving problems that require both structure *and* imagination
+I enjoy the challange of solving problems that require both structure & imagination
 
 ---
 
 ## Current Focus
 
+Developing a project that might be picked up by a company + some personal ones<br>
+Building a portfolio that shows both my technical & creative work<br>
 Expanding real-world coding projects<br>
-Moving local projects onto GitHub<br>
-Building a portfolio that reflects both technical and creative work
+Moving local projects onto GitHub
 
 ---
 
 ## Beyond Code
 
-Before focusing fully on tech, I built experience in environments that required discipline, responsibility, and focus.
+Top **0.1%** performer across digital and physical landscapes, from Top 500 Overwatch & achieving Immortal to national-level equestrian and international entrepreneurial car-flipping.
 
-Ran a small car-flipping business during COVID, handling sourcing, pricing, and resale  <br>
+Ran an international car-flipping business during COVID, handling sourcing, pricing, and resale  <br>
+Practicing archery, precision and patience are skills I enjoy  <br>
+CPR certified by the Saudi Heart Association (Since 2025)<br>
 Competed in horse riding at national level  <br>
-Practice archery — I enjoy precision and patience-based skills  <br>
-Certified diver (PADI)  <br>
-CPR certified by the Saudi Heart Association<br>
+Certified scuba diver (PADI)  <br>
 I am also a cocktail: <img src="https://purecatamphetamine.github.io/country-flag-icons/3x2/SA.svg" width="30"/>  <img src="https://purecatamphetamine.github.io/country-flag-icons/3x2/TR.svg" width="30"/>
 
 These experiences shaped how I approach projects: stay calm, stay consistent, and finish properly.
 
 ---
-
-## Roadmap
-
-* [ ] Publish my strongest local projects
-* [ ] Build one polished flagship project
-* [ ] Contribute to an open-source project
-* [ ] Document my learning journey publicly
-
----
-
+ 
 ## Latest Work
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Breath (x2) & Like That - Valorant, League & R6s [Edit]](https://ytcards.demolab.com/?id=rOVwAlGhENQ&title=Breath+%28x2%29+%26+Like+That+-+Valorant%2C+League+%26+R6s+%5BEdit%5D&lang=en&timestamp=1771447323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99 "Breath (x2) & Like That - Valorant, League & R6s [Edit]")](https://www.youtube.com/watch?v=rOVwAlGhENQ)
