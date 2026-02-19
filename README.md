@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center" style="max-height: 30px; overflow: hidden;">
+  <img src="https://github.com/Just-g323/Just-g323/blob/main/imagesFolder/azula%20almost%20isent%20good%20enough.gif?raw=true" height="200" width="50%" />
+</div>
+
 # Heyo, I’m g323
 
 **Student • Developer • Video Editor**
