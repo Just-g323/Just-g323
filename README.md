@@ -21,7 +21,7 @@ Currently exploring the space between logic, data, and creative tools.
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ae,androidstudio,blender,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ae,androidstudio,blender,firebase,flask&theme=dark)](https://skillicons.dev)
 
 ---
 
